@@ -15,13 +15,3 @@ Planning group trips can be chaotic and inefficient. People often struggle to co
 2. Propose the Solution
 
 We propose a mobile app that allows users to collaboratively plan, organize and share trips. The app would let users create trip itineraries, assign roles such as planner, driver, vote on options (like destinations or activities) and manage shared expenses. Real-time updates, notifications, and calendar integration would keep everyone informed and connected throughout the trip planning process.
-
-3. List the technologies required by the solution:
-
-- Frontend: React Native (for cross-platform mobile app development)
-- Backend: Node.js with Express (to manage API endpoints)
-- Database: Firebase Firestore or MongoDB (for storing user data, trips, schedules)
-- Authentication: Firebase Auth or Auth0 (for user sign-in/sign-up)
-- Notifications: Firebase Cloud Messaging (for push notifications)
-- APIs: Google Maps API (for route planning, location sharing), Calendar API (for scheduling)
-- Version Control: Git & GitHub (for collaboration and PR workflow)
