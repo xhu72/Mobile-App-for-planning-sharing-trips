@@ -23,11 +23,3 @@ Frontend: React Native (for cross-platform mobile app development)
 Backend: Node.js with Express (to manage API endpoints)
 
 Database: Firebase Firestore or MongoDB (for storing user data, trips, schedules)
-
-Authentication: Firebase Auth or Auth0 (for user sign-in/sign-up)
-
-Notifications: Firebase Cloud Messaging (for push notifications)
-
-APIs: Google Maps API (for route planning, location sharing), Calendar API (for scheduling)
-
-Version Control: Git & GitHub (for collaboration and PR workflow)
