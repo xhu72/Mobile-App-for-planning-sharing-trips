@@ -30,7 +30,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 - Milestone 8 (user-preferences-and-accessibility) : Enable customizable itinerary views, personalized activity recommendations, multilingual support, and accessibility features such as larger text and voice commands.
 
-- 3.1 Work Breakdown Structure
+## 3.1 Work Breakdown Structure
 
 ![Trip Preview](./Work-BreakDown.jpg)
 
