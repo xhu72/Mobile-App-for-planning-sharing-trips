@@ -34,4 +34,18 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 ![Trip Preview](./Work-BreakDown.jpg)
 
+## 3.2 Requirements Traceability Matrix
+
+| Req ID | Requirement                         | Del ID | Deliverable                                                                 | Owner   | Status       |
+|-------:|-------------------------------------|:------:|------------------------------------------------------------------------------|---------|--------------|
+| REQ01  | Cloud Hosting & Server Setup        | DEL01  | Hosting environment running with domain, DNS & SSL configured                | DevOps  | Done         |
+| REQ02  | Authentication & Security Setup     | DEL02  | Secure user authentication and authorization implemented (Firebase/Auth0)    | Backend | Testing      |
+| REQ03  | Database Configuration              | DEL03  | Database (Firestore/MongoDB) with user, trip, expense & booking schemas      | Backend | Testing      |
+| REQ04  | Backend API Endpoints               | DEL04  | Node.js + Express backend with trip, expense, and booking APIs               | Backend | Pending      |
+| REQ05  | React Native Frontend Setup         | DEL05  | Mobile app with navigation, trip dashboard & map integration                 | Frontend| Pending      |
+| REQ06  | Version Control & Collaboration     | DEL06  | GitHub repo with branch strategy, PR workflow & review process               | DevOps  | Done         |
+| REQ07  | Third-Party Integrations            | DEL07  | Integrated Google Maps, Calendar, Firebase Cloud Messaging, Stripe/PayPal    | Backend | Pending      |
+| REQ08  | Real-Time Features                  | DEL08  | Chat, live expense updates & push notifications via Firebase/WebSocket       | Backend | Pending      |
+| REQ09  | Testing & QA Setup                  | DEL09  | Unit, API & E2E testing environments (Jest, Detox, Postman)                  | QA      | In Progress  |
+| REQ10  | Deployment & Monitoring             | DEL10  | CI/CD pipeline, staging & production deployment, Crashlytics monitoring      | DevOps  | Pending      |
 
