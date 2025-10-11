@@ -50,7 +50,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 | REQ10  | Deployment & Monitoring             | DEL10  | CI/CD pipeline, staging & production deployment, Crashlytics monitoring      | DevOps  | Pending      |
 
 
-# Deliverables
+4. # Deliverables
 
 ## 1. Trip Itinerary Management
 - Create, edit, and delete trips with details such as name, dates, and destinations.  
@@ -90,3 +90,9 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 - Switch between **custom views** (list or grid).  
 - Enable larger text sizes and voice commands for accessibility.  
 - Support multiple **language preferences** and personalized activity suggestions.
+
+# 5. Preliminary Budget (to be left empty)
+
+# 6. Organization and Stakeholders, (to be left empty)
+
+# 7. Risks, Assumptions, and Constraints (to be left empty)
