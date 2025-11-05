@@ -32,7 +32,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 ## 3.1 Work Breakdown Structure
 
-![Trip Preview](./Work-BreakDown.jpg)
+![alt text](Work-BreakDown-1.jpg)
 
 ## 3.2 Requirements Traceability Matrix
 
@@ -50,43 +50,43 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 | REQ10  | Deployment & Monitoring             | DEL10  | CI/CD pipeline, staging & production deployment, Crashlytics monitoring      | DevOps  | Pending      |
 
 
-4. # Deliverables
+# 4. Deliverables
 
-## 1. Trip Itinerary Management
+## 4.1 Trip Itinerary Management
 - Create, edit, and delete trips with details such as name, dates, and destinations.  
 - Destination search integrated with **Google Maps API** for accurate location selection.  
 
-## 2. Collaborative Features
+## 4.2 Collaborative Features
 - Invite users to trips and enable real-time group collaboration.  
 - Built-in group chat for seamless communication.  
 - Assign custom roles (Planner, Driver, Treasurer).  
 - Use polls for group decision-making and activity voting.  
 
-## 3. Notifications and Updates
+## 4.3 Notifications and Updates
 - Receive **push notifications** for trip changes, activity updates, and new polls.  
 - Get **real-time alerts** for itinerary modifications and group coordination.  
 
-## 4. Expense Tracking
+## 4.4 Expense Tracking
 - Add and view all trip expenses with contributor details.  
 - Track individual contributions and ensure a **fair split** among members.  
 - Display real-time **cost summaries** and support expense settlements.  
 
-## 5. Map and Location Tools
+## 4.5 Map and Location Tools
 - Access shared **interactive maps** for trip destinations and activities.  
 - Pin activities and view member locations in real time.  
 - Set **location-based reminders** for key trip events.  
 
-## 6. Booking and Calendar Integration
+## 4.6 Booking and Calendar Integration
 - Sync itineraries with user calendars (Google Calendar, iCal, etc.).  
 - Add notes or reminders for planned events.  
 - Filter and book **categorized activities** directly from the app.  
 
-## 7. Offline Access and Media Sharing
+## 4.7 Offline Access and Media Sharing
 - View itinerary and essential trip details **offline**.  
 - Access synced bookings and calendar events without internet.  
 - Upload and share **photos, videos, and documents** within the group.  
 
-## 8. Personalization & Accessibility
+## 4.8 Personalization & Accessibility
 - Switch between **custom views** (list or grid).  
 - Enable larger text sizes and voice commands for accessibility.  
 - Support multiple **language preferences** and personalized activity suggestions.
