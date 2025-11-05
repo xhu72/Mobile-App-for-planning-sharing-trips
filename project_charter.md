@@ -32,7 +32,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 ## 3.1 Work Breakdown Structure
 
-![alt text](Work-BreakDown-1.jpg)
+![alt text](Work-BreakDown.jpg)
 
 ## 3.2 Requirements Traceability Matrix
 
