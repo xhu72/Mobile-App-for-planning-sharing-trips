@@ -51,6 +51,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 
 # 4. Deliverables
+![alt text](GanttChart.png)
 
 ## 4.1 Trip Itinerary Management
 - Create, edit, and delete trips with details such as name, dates, and destinations.  
