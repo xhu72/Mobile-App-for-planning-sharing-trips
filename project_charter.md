@@ -94,6 +94,18 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 # 5. Preliminary Budget (to be left empty)
 
+# Project Budget
+
+| **Cost Category** | **Description** | **Unit Cost** | **Quantity** | **Total Cost (CAD)** |
+|--------------------|-----------------|----------------|---------------|----------------------|
+| **Personnel Costs** | Full Stack Developers (4 developers, 15 weeks) | $40/hr | 4 × 600 hrs | **$96,000** |
+| **Fixed Costs** | Cloud Hosting (Firebase / Backend) | Monthly | 4 months | $400 |
+|  | Third-party APIs (Google Maps, Calendar) | Monthly | 4 months | $200 |
+|  | Design Tools (Figma, Adobe XD) | License | 1 | $50 |
+| **Contingency Costs** | Miscellaneous / unexpected expenses (~10%) | — | — | **$9,665** |
+| **Total Estimated Budget** | — | — | — | **$106,315 CAD** |
+
+
 # 6. Organization and Stakeholders, (to be left empty)
 
 # 7. Risks, Assumptions, and Constraints (to be left empty)
