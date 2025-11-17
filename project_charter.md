@@ -107,5 +107,9 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 
 # 6. Organization and Stakeholders, (to be left empty)
+## 6.1 Stakeholder Analysis Matrix 
+![alt text](StakeholderAnalysisMatrix.png)
+
+## Communications Plan
 
 # 7. Risks, Assumptions, and Constraints (to be left empty)
