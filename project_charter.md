@@ -113,3 +113,15 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 ## Communications Plan
 
 # 7. Risks, Assumptions, and Constraints (to be left empty)
+
+
+| Information                  | Owner               | Audience                                      | Schedule   | Channel                     |
+|-------------------------------|-------------------|-----------------------------------------------|------------|----------------------------|
+| Project Status Update         | Product Manager    | Investors, Strategic Partners                 | Biweekly   | Email + Zoom               |
+| Feature Rollout Plan          | Lead Engineer      | Full Stack Developers, QA Testers            | Weekly     | Slack + GitHub             |
+| Privacy & Compliance Log      | Legal Team         | App Store Governance, Compliance Teams       | Monthly    | Secure Portal              |
+| Itinerary Sync Feature        | UX Designer        | Trip Organizers, End Users                    | Biweekly   | In-App Notification        |
+| Bug Fix Summary               | QA Tester Lead     | Developers, Lead Engineer                     | Weekly     | Jira + Slack               |
+| Design Feedback Loop          | Lead UX/UI Designer| End Users (non-organizers), Trip Organizers  | Monthly    | Survey + Figma Comments    |
+| Financial Overview            | Project Sponsor   | Investors, Product Manager                    | Monthly    | Email + Phone Call         |
+
