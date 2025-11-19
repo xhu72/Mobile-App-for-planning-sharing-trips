@@ -110,10 +110,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 ## 6.1 Stakeholder Analysis Matrix 
 ![alt text](StakeholderAnalysisMatrix.png)
 
-## Communications Plan
-
-# 7. Risks, Assumptions, and Constraints 
-
+## 6.2 Communications Plan
 
 | Information                  | Owner               | Audience                                      | Schedule   | Channel                     |
 |-------------------------------|-------------------|-----------------------------------------------|------------|----------------------------|
@@ -125,3 +122,4 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 | Design Feedback Loop          | Lead UX/UI Designer| End Users (non-organizers), Trip Organizers  | Monthly    | Survey + Figma Comments    |
 | Financial Overview            | Project Sponsor   | Investors, Product Manager                    | Monthly    | Email + Phone Call         |
 
+# 7. Risks, Assumptions, and Constraints 
