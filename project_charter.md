@@ -92,7 +92,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 - Enable larger text sizes and voice commands for accessibility.  
 - Support multiple **language preferences** and personalized activity suggestions.
 
-# 5. Preliminary Budget (to be left empty)
+# 5. Preliminary Budget 
 
 # Project Budget
 
@@ -106,10 +106,20 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 | **Total Estimated Budget** | — | — | — | **$106,315 CAD** |
 
 
-# 6. Organization and Stakeholders, (to be left empty)
+# 6. Organization and Stakeholders, 
 ## 6.1 Stakeholder Analysis Matrix 
 ![alt text](StakeholderAnalysisMatrix.png)
 
-## Communications Plan
+## 6.2 Communications Plan
 
-# 7. Risks, Assumptions, and Constraints (to be left empty)
+| Information                  | Owner               | Audience                                      | Schedule   | Channel                     |
+|-------------------------------|-------------------|-----------------------------------------------|------------|----------------------------|
+| Project Status Update         | Product Manager    | Investors, Strategic Partners                 | Biweekly   | Email + Zoom               |
+| Feature Rollout Plan          | Lead Engineer      | Full Stack Developers, QA Testers            | Weekly     | Slack + GitHub             |
+| Privacy & Compliance Log      | Legal Team         | App Store Governance, Compliance Teams       | Monthly    | Secure Portal              |
+| Itinerary Sync Feature        | UX Designer        | Trip Organizers, End Users                    | Biweekly   | In-App Notification        |
+| Bug Fix Summary               | QA Tester Lead     | Developers, Lead Engineer                     | Weekly     | Jira + Slack               |
+| Design Feedback Loop          | Lead UX/UI Designer| End Users (non-organizers), Trip Organizers  | Monthly    | Survey + Figma Comments    |
+| Financial Overview            | Project Sponsor   | Investors, Product Manager                    | Monthly    | Email + Phone Call         |
+
+# 7. Risks, Assumptions, and Constraints 
