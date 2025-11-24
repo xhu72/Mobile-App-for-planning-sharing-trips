@@ -32,7 +32,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 ## 3.1 Work Breakdown Structure
 
-![alt text](Work-BreakDown.jpg)
+![alt text](Pictures/Work-BreakDown.jpg)
 
 ## 3.2 Requirements Traceability Matrix
 
@@ -51,7 +51,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 
 # 4. Deliverables
-![alt text](GanttChart.png)
+![alt text](Pictures/GanttChart.png)
 
 ## 4.1 Trip Itinerary Management
 - Create, edit, and delete trips with details such as name, dates, and destinations.  
@@ -108,7 +108,7 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 # 6. Organization and Stakeholders, 
 ## 6.1 Stakeholder Analysis Matrix 
-![alt text](StakeholderAnalysisMatrix.png)
+![alt text](Pictures/StakeholderAnalysisMatrix.png)
 
 ## 6.2 Communications Plan
 
