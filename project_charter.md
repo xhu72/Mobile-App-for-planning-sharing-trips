@@ -112,14 +112,23 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 
 ## 6.2 Communications Plan
 
-| Information                  | Owner               | Audience                                      | Schedule   | Channel                     |
-|-------------------------------|-------------------|-----------------------------------------------|------------|----------------------------|
-| Project Status Update         | Product Manager    | Investors, Strategic Partners                 | Biweekly   | Email + Zoom               |
-| Feature Rollout Plan          | Lead Engineer      | Full Stack Developers, QA Testers            | Weekly     | Slack + GitHub             |
-| Privacy & Compliance Log      | Legal Team         | App Store Governance, Compliance Teams       | Monthly    | Secure Portal              |
-| Itinerary Sync Feature        | UX Designer        | Trip Organizers, End Users                    | Biweekly   | In-App Notification        |
-| Bug Fix Summary               | QA Tester Lead     | Developers, Lead Engineer                     | Weekly     | Jira + Slack               |
-| Design Feedback Loop          | Lead UX/UI Designer| End Users (non-organizers), Trip Organizers  | Monthly    | Survey + Figma Comments    |
-| Financial Overview            | Project Sponsor   | Investors, Product Manager                    | Monthly    | Email + Phone Call         |
+
+
+| Information                          | Owner                          | Audience                                              | Schedule / Ceremony              | Channel                          |
+|--------------------------------------|--------------------------------|-------------------------------------------------------|----------------------------------|----------------------------------|
+| Sprint Goals & Backlog Grooming      | Product Owner                  | Scrum Team (Developers, QA, UX, Scrum Master)         | Before each Sprint               | Miro / Jira + Zoom               |
+| Sprint Planning                      | Scrum Master + Product Owner   | Entire Scrum Team                                     | Start of each Sprint (2 weeks)   | Zoom + Jira                      |
+| Daily Scrum (Stand-up)               | Scrum Master                   | Entire Scrum Team                                     | Daily (15 min)                   | Slack Huddle / Zoom              |
+| Feature Rollout / Technical Design   | Lead Engineer                  | Developers, QA Testers, Scrum Master                  | Weekly                           | Slack + GitHub + Confluence      |
+| Sprint Review (Demo)                 | Product Owner + Scrum Team     | Investors, Partners, End Users (optional)             | End of each Sprint               | Zoom + Live demo                 |
+| Sprint Retrospective                | Scrum Master                   | Entire Scrum Team                                     | End of each Sprint               | Miro + Zoom                      |
+| Privacy & Compliance Log             | Legal Team                     | App Store Governance, Compliance Teams, Scrum Master  | Monthly                          | Secure Portal                    |
+| Itinerary Sync Feature Updates       | UX Designer                    | Trip Organizers, End Users                            | Biweekly                         | In-App Notification + Release Notes |
+| Bug Fix Summary & Sprint Burndown    | QA Tester + Scrum Master       | Lead Developers, Lead Engineer, Product Owner         | Weekly + End of Sprint           | Jira Dashboard + Slack           |
+| Design Feedback Loop                 | Lead UX/UI Designer            | End Users, Trip Organizers, Product Owner             | Monthly                          | Survey + Figma Comments          |
+| Impediment & Blocker Escalation      | Scrum Master                   | Product Owner, Lead Engineer, Stakeholders (as needed)| As they occur (within 24 h)      | Slack (#blockers) + 1:1 calls    |
+| Team Velocity & Sprint Metrics       | Scrum Master                   | Product Owner, Project Sponsor, Lead Engineer         | End of each Sprint               | Jira Reports + Email             |
+
+
 
 # 7. Risks, Assumptions, and Constraints 
