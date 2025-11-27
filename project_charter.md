@@ -156,3 +156,6 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 6. **Budget Overruns**  
    (Unexpected costs from API quotas, hosting usage, licenses, or tools.)
 
+### 7.2 Risk Evaluation Chart
+![Risk Evaluation Chart](Pictures/risk-evaluation.png)
+
