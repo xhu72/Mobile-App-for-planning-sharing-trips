@@ -135,26 +135,23 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 ## 7.1 Identified Project Risks
 
 ## High Impact & Likely
-1. **Third-Party API Failures**  
-   (Google Maps, Google Calendar, Firebase Messaging outages may disrupt essential features.)
+1. Third-Party API Failures (Google Maps, Google Calendar, Firebase Messaging outages may disrupt essential features.)
+2. Development delays causing missed milestones (especially backend APIs & real-time features)
 
 ## Low Impact & Likely
-2. **Feature Delivery Delays**  
-   (Sprint items may slip due to dependencies, lack of QA coverage, or team workload.)
+3. Minor UI/UX inconsistencies or frequent small redesign requests
+4. Offline mode sync conflicts or small data-loss edge cases
 
 ## High Impact & Unlikely
-3. **Data Breach or Authentication Failure**  
-   (Potential vulnerabilities in Firebase/Auth0 or exposed JWT tokens could compromise user data.)
-
-4. **App Store Rejection**  
-   (Violations of Google/Apple store policies, incomplete documentation, or privacy non-compliance.)
+5. Major data breach or unauthorized access to user trip/expense data
+6. App store rejection due to privacy/policy violation (e.g., location or payment data handling)
+7. Budget Overruns- (Unexpected costs from API quotas, hosting usage, licenses, or tools.)
+8. Low User Adoption.
 
 ## Low Impact & Unlikely
-5. **Low User Adoption**  
-   (Users may find the app too complex or may prefer existing planning tools.)
+9. Team member sudden unavailability (illness, personal emergency)
 
-6. **Budget Overruns**  
-   (Unexpected costs from API quotas, hosting usage, licenses, or tools.)
+
 
 ### 7.2 Risk Evaluation Chart
 ![Risk Evaluation Chart](Pictures/risk-evaluation.png)
