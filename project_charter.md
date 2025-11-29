@@ -156,3 +156,36 @@ The key objectives of the Mobile-App-for-Planning-Sharing-Trips are:
 ### 7.2 Risk Evaluation Chart
 ![Risk Evaluation Chart](Pictures/risk-evaluation.jpeg)
 
+## 7.3 Assumptions 
+
+- Users have access to modern smartphones (iOS 15+ or Android 10+) capable of running a React Native app smoothly.  
+- The majority of target users are comfortable with inviting friends via email/phone number and granting location/calendar permissions.  
+- Third-party services (Google Maps, Google Calendar, Firebase, Stripe/PayPal) will remain available with stable APIs and reasonable pricing throughout the development and first year of operation.  
+- Internet connectivity will be available for most users during the planning phase; offline mode is primarily needed during travel, not for initial setup.  
+- Users are willing to link their Google/Apple accounts for calendar sync and are open to in-app payment methods for group expense settlements.  
+- The core user base consists of millennials and Gen Z travelers (ages 18–45) who already collaborate via existing messaging apps and will adopt a dedicated trip-planning app.  
+
+
+## 7.4 Constraints
+
+- **Time Constraint:** The entire MVP must be completed and submitted for app store review within 16 weeks to meet academic/course deadlines or investor demo commitments.  
+- **Budget Constraint:** Total project cost cannot exceed $115,000 CAD (including 10% contingency); no additional hiring or premium tools beyond the planned stack.  
+- **Team Size Constraint:** Limited to 4 full-stack developers, 1 UX/UI designer, 1 QA tester, 1 Scrum Master/Product Owner (some roles may be shared).  
+- **Technology Constraint:** Must use React Native for cross-platform mobile development and Firebase (or MongoDB + Node.js) as the primary backend to keep costs and complexity manageable.  
+- **Regulatory Constraint:** Must comply with GDPR, CCPA, Apple App Store, and Google Play privacy policies—especially regarding location data, financial transactions, and media storage.  
+- **Scope Constraint:** Only core features listed in Milestones 1–8 can be implemented; advanced AI recommendations, AR navigation, or travel insurance integration are explicitly out of scope for v1.  
+
+
+## 7.5 Quality Assurance 
+
+- At least **80% unit test coverage** for all backend API endpoints (Jest + Supertest) and critical frontend components.  
+- **End-to-end (E2E) tests** using Detox for the 5 most important user flows:  
+  - (a) create trip → invite friend → vote on activity → book → split expense  
+  - (b) offline sync reconciliation  
+- Automated regression suite must run successfully on every pull request via **GitHub Actions** before merging to main (fail build if critical tests fail).  
+- **Bi-weekly bug bash sessions** with the entire team plus 3–5 beta users to catch usability and edge-case issues early.  
+- **Performance benchmarks:**  
+  - App launch < 3 seconds  
+  - Real-time chat message delivery < 2 seconds  
+  - Map rendering of 50+ pins < 1.5 seconds on mid-range devices  
+- **Accessibility audit** using Axe and VoiceOver/TalkBack: Achieve **WCAG 2.1 Level AA compliance** (contrast ratios, screen-reader labels, dynamic text sizing, and voice command support).  
